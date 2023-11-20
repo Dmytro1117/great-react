@@ -1,4 +1,4 @@
-import{s as o,B as t}from"./index-233ce0a4.js";const a=o.div`
+import{s as o,B as t}from"./index-e141c39a.js";const a=o.div`
   width: 550px;
   padding: 20px;
   box-shadow: 4px 4px 8px #8888888e;
